@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a mobile app login form in typescript using react native with options to continue with Google, Apple, and Facebook","md5":"e129c8cb5586b358e435c5cc98dcf488"}]}
